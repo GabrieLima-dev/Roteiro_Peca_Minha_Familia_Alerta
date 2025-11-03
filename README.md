@@ -1,6 +1,6 @@
 # 🎭 Roteiro da Peça — *Minha Família*
 
-Um projeto criado com o objetivo de **dar vida e visibilidade digital à peça teatral “Minha Família”**, escrita por *Michael Douglas*, e apresentada no **VI Alerta**.  
+Um projeto criado com o objetivo de **dar vida e ajudar aos Animadores com a peça teatral “Minha Família”**, escrita por *Michael Douglas*, e apresentada no **VI Alerta**.  
 O site apresenta um roteiro interativo, dividido em atos, permitindo que atores e leitores explorem a história, os personagens e o arco de transformação que a peça propõe — tudo em uma interface clara, bonita e funcional.
 
 ---
